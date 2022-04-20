@@ -14,7 +14,7 @@ toc: true
 toc_label: "MYSELF"
 ---
 
-**“토론을 즐기는 여행가 ✈**
+**토론을 즐기는 여행가 ✈**
 
 ![여행1](https://user-images.githubusercontent.com/104043279/164164712-94cf96a6-bcb0-4eaf-b73e-c02af2656318.jpg)
 
