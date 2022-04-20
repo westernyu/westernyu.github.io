@@ -3,9 +3,9 @@ title: "Machine Learning Design Patterns: Before start..."
 categories:
   - Machine Learning Design Patterns
 tags:
-  - ML
-  - DE
-  - study
+  - Study
+  - Machine Learning
+  - MLOps
 gallery:
 gallery:
   - url: /assets/images/머신러닝디자인패턴.jpg
