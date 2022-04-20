@@ -14,7 +14,7 @@ toc: true
 toc_label: "MYSELF"
 ---
 
-## “토론을 즐기는 여행가 ✈ "
+**“토론을 즐기는 여행가 ✈**
 
 ![여행1](https://user-images.githubusercontent.com/104043279/164164712-94cf96a6-bcb0-4eaf-b73e-c02af2656318.jpg)
 
@@ -32,13 +32,13 @@ toc_label: "MYSELF"
 
 ## ![icon](/assets/logo.ico/notepad.png) 경력사항
 
-### 아몬드 
+**아몬드** 
 - 데이터분석가  
 - '2021. 03' ~ '2021. 08' 
   - 객체 탐지 모델 생성
   - 의료데이터 분석
 
-### 미리디 
+**미리디** 
 - 데이터분석가
 - '2021. 10' ~ ing 
   - 사용자 스토리 기반의 UI/UX 개선
