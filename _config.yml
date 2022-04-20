@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "YUJIN's SPACE"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Seo Yujin"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "**Wanted to be VERSATILE DATA SCIENTIST!**<br>매일 공부하고 있습니다.<br>의견 나누기를 즐깁니다."
+  bio              : "**Wanted to be <br>VERSATILE DATA SPECIALIST :)**<br>매일 공부하고 있습니다.<br>의견 나누기를 즐깁니다."
   location         : "Seoul, Republic of Korea"
   email            :
   links:
@@ -267,11 +267,10 @@ defaults:
       comments: # true
       share: true
       related: true
-
-# _pages
-- scope:
-    path: "_pages"
-    type: pages
-  values:
-    layout: single
-    author_profile: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
