@@ -68,7 +68,7 @@ TIP
 #### 예측의 정밀도           
 회귀 모델을 멀티클래스 분류로 리프레이밍하는 경우, 출력 라벨에 대한 전체 빈의 너비가 분류 모델의 정밀도를 좌우하게 된다.             
 PDF의 뾰족한 정도는 회귀 작업의 정밀도를 나타낸다. PDF가 뾰족하면 출력 분포의 표준편차가 작은 것이고, PDF가 뭉툭하면 표준편차가 큰 것이다. 그러므로 매우 뾰족한 PDF를 가진 데이터에는 회귀 모델을 사용하는 것이 좋다.             
-<img src="https://user-images.githubusercontent.com/104043279/172767600-0cbf560e-7bfd-48ed-924d-034ddc0f278d.jpg" width="40%" height="30%" alt="picture"></img>
+<img src="https://user-images.githubusercontent.com/104043279/172767600-0cbf560e-7bfd-48ed-924d-034ddc0f278d.jpg" width="450px" height="300px" alt="picture">
            
 #### 예측 범위 제한하기           
 예측 출력의 범위를 제한해야 하는 경우에도 문제를 리프레이밍하는 것이 도움이 된다.            
