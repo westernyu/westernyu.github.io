@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Design Patterns: Before start..."
+title: "[Machine Learning Design Patterns] Before start..."
 categories:
   - Machine Learning Design Patterns
 tags:

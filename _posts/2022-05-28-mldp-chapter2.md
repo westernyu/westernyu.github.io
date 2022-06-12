@@ -1,5 +1,5 @@
 ---
-title: "Chapter 2: 데이터 표현 디자인 패턴"
+title: "[Machine Learning Design Patterns] Chapter 2: 데이터 표현 디자인 패턴"
 categories:
   - Machine Learning Design Patterns
 tags:
@@ -13,7 +13,8 @@ gallery:
     alt: "placeholder image 1"
     title: "머신러닝 디자인패턴"
 ---
-
+![머신러닝디자인패턴](https://user-images.githubusercontent.com/104043279/164156828-b2e17094-7cdc-456e-84c2-321fada963de.jpg)     
+              
 머신러닝 모델의 핵심은 특정 유형의 데이터로만 작동하도록 정의된 '수학적' 함수다. 그러나 동시에, 머신러닝 모델은 수학적 함수에 직접 연결할 수 '없는' 데이터로도 작동할 수 있어야 한다.     
      
 ## 수치 데이터     

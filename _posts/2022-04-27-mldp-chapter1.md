@@ -1,5 +1,5 @@
 ---
-title: "Chapter 1: 머신러닝 디자인 패턴의 필요성"
+title: "[Machine Learning Design Patterns] Chapter 1: 머신러닝 디자인 패턴의 필요성"
 categories:
   - Machine Learning Design Patterns
 tags:
@@ -13,7 +13,8 @@ gallery:
     alt: "placeholder image 1"
     title: "머신러닝 디자인패턴"
 ---
-
+![머신러닝디자인패턴](https://user-images.githubusercontent.com/104043279/164156828-b2e17094-7cdc-456e-84c2-321fada963de.jpg)     
+             
 ## CHAPTER 1 머신러닝 디자인 패턴의 필요성
 
 **디자인 패턴** 
