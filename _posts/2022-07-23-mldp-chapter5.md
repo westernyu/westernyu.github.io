@@ -18,11 +18,11 @@ gallery:
            
 ## CHAPTER5 탄력성 디자인 패턴  
 ### 목차
-  1. [스테이트리스 서빙 함수stateless serving function](#------------stateless-serving-function)
-  2. [배치 서빙batch serving](#-----batch-serving)
-  3. [연속 모델 평가continued model evaluation](#--------continued-model-evaluation)
-  4. [2단계 예측two-phase prediction](#2-----two-phase-prediction)
-  5. [키 기반 예측keyed prediction](#-------keyed-prediction)
+  1. 스테이트리스 서빙 함수(stateless serving function)
+  2. 배치 서빙(batch serving)
+  3. 연속 모델 평가(continued model evaluation)
+  4. 2단계 예측(two-phase prediction)
+  5. 키 기반 예측(keyed prediction)
 
    
 ml모델을 학습시킨 후에는 일반적으로 프로덕션 환경에 배포하고, 수신된 요청에 대한 응답으로 예측을 수행한다. 프로덕션 환경에 배포된 소프트웨어는 사람의 개입이 거의 없이 실행을 유지해야 하므로, 탄력성을 갖추는 것이 무엇보다 중요하다. 이번 장에서는 탄력성을 높이기 위한 디자인 패턴에는 어떤 것들이 있는지 알아보도록 한다.   
