@@ -1,5 +1,5 @@
 ---
-title: "[Machine Learning Design Patterns] Chapter 4: 모델 학습 디자인 패턴"
+title: "[Machine Learning Design Patterns] Chapter 5: 탄력성 디자인 패턴"
 categories:
   - Machine Learning Design Patterns
 tags:
