@@ -182,7 +182,7 @@ update cron.job set schedule = '수정할 시간 주기' where jobid = [수정�
      
      
 *참조:    
-https://www.postgresql.fastware.com/postgresql-insider-fdw-ove   
-https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/PostgreSQL_pg_cron.html   
-https://aws.amazon.com/ko/blogs/database/schedule-jobs-with-pg_cron-on-your-amazon-rds-for-postgresql-or-amazon-aurora-for-postgresql-databases/    
-https://github.com/citusdata/pg_cron   
+(https://www.postgresql.fastware.com/postgresql-insider-fdw-ove)   
+(https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/PostgreSQL_pg_cron.html)   
+(https://aws.amazon.com/ko/blogs/database/schedule-jobs-with-pg_cron-on-your-amazon-rds-for-postgresql-or-amazon-aurora-for-postgresql-databases/)    
+(https://github.com/citusdata/pg_cron)   
